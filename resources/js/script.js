@@ -1,4 +1,4 @@
-$(document).ready(function(){
+ $(document).ready(function(){
 	
 		/* For the sticky navigation */
 
@@ -82,6 +82,7 @@ $(document).ready(function(){
 	});
 	
 });
+
 
 	
 

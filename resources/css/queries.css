@@ -106,6 +106,7 @@
 	.works-step:last-of-type{ margin-bottom: 20px;}
 	header {
 		background-size: cover;
+		background-position: center left;
 	} 
 }
 
